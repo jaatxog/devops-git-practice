@@ -1,0 +1,3 @@
+# Git Tags
+git tag v1.0
+git push --tags

@@ -1,0 +1,5 @@
+# Conflict Resolution
+Edit markers:
+<<<<<<<
+=======
+>>>>>>>
